@@ -25,4 +25,4 @@ Sample output:  https://github.com/HaowanGeigei/work-tools/blob/main/pr-review/o
 
 
 
-Thanks contributions from @zhu-junyi and @kurnias
+Thanks contributions from [@zhu-junyi](https://github.com/zhu-junyi) and [@kurnias](https://git.autodesk.com/kurnias)
