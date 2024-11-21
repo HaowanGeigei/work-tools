@@ -16,5 +16,5 @@ You need to have a GitHub Copilot account.
     Login to GitHub using the provided code.
 
 3. The output will be saved to the specified output file. For the best viewing experience, it is recommended to output to a markdown file and view the result using a markdown viewer.
-Sample output: https://git.autodesk.com/kurnias/wip-tools/blob/master/pr-review/out.md
+Sample output: [https://git.autodesk.com/kurnias/wip-tools/blob/master/pr-review/out.md](https://github.com/HaowanGeigei/work-tools/blob/main/pr-review/out.md)
 
