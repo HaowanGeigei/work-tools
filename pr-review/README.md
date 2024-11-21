@@ -10,7 +10,7 @@ You need to have a GitHub Copilot account.
     ```
 
     ```sh
-    python3 ./copilot_review_pr.py -u https://git.autodesk.com/WIPDM/wip-dm-service/pull/4688 -o /Users/kurnias/source/wip-tools/pr-review/out.md
+    python3 ./copilot_review_pr.py -u https://git.autodesk.com/WIPDM/wip-dm-service/pull/4688 -o /Users/kurnias/source/wip-tools/pr-review/out2.md
     ```
 
 2. On the first run, you will be prompted to authenticate:
